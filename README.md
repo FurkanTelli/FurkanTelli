@@ -5,7 +5,7 @@
 
 **Knowledge** <br/><br/> 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-%23FA7343.svg?style=for-the-badge&logo=html&logoColor=white"/>
-<img alt="CSS" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=css&logoColor=white"/>
+<img alt="CSS" src="https://img.shields.io/badge/css-%23239120.svg?style=for-the-badge&logo=css&logoColor=white"/>
 <img alt="SCSS" src="https://img.shields.io/badge/SCSS-5C2D91?style=for-the-badge&logo=scss&logoColor=white" />
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23F05033.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2300f.svg?style=for-the-badge&logo=react&logoColor=white"/>
