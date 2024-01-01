@@ -1,7 +1,7 @@
 ### 
 
 Working On... <br/><br/>
-<img alt="Angular" src="https://img.shields.io/badge/angular-%23FF2D20.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+<img alt="Angular" src="https://img.shields.io/badge/React-%23FF2D20.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 
 **Knowledge :** <br/><br/> 
 <img alt="HTML" src="https://img.shields.io/badge/Html-%23FA7343.svg?style=for-the-badge&logo=html&logoColor=white"/>
