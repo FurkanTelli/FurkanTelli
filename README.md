@@ -1,7 +1,7 @@
 ### 
 
 Working On... <br/><br/>
-<img alt="React" src="https://img.shields.io/badge/react-%2300f.svg?style=for-the-badge&logo=react&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2300f.svg?style=for-the-badge&logo=react&logoColor=white"/> & <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 **Knowledge :** <br/><br/> 
 <img alt="HTML" src="https://img.shields.io/badge/Html-%23FA7343.svg?style=for-the-badge&logo=html&logoColor=white"/>
