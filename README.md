@@ -13,7 +13,7 @@ Working On... <br/><br/>
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23F05033.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img alt="Typescript Studio Code" src="https://img.shields.io/badge/typescript-0078d7.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2300f.svg?style=for-the-badge&logo=react&logoColor=white"/>
-<img alt="Next.js" src="https://img.shields.io/badge/react-%2300f.svg?style=for-the-badge&logo=react&logoColor=white"/>
+<img alt="Next.js" src="https://img.shields.io/badge/react-%2300f.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23FF2D20.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
