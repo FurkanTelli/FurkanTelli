@@ -2,7 +2,7 @@
 
 Working On... <br/><br/>
 <div>
-<img alt="React" src="https://img.shields.io/badge/react-%2300f.svg?style=for-the-badge&logo=react&logoColor=white"/>   <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2300f.svg?style=for-the-badge&logo=react&logoColor=white"/>   <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/CSharp-ED8B00?style=for-the-badge&logo=csharp&logoColor=white"/>
 
 </div>
 
