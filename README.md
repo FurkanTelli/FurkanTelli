@@ -6,6 +6,8 @@ Working On... <br/><br/>
 
 </div>
 
+--------------------------------------------------------------------------------------------------------------------------
+
 **Knowledge :** <br/><br/> 
 <img alt="HTML" src="https://img.shields.io/badge/Html-%23FA7343.svg?style=for-the-badge&logo=html&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/css-%23239120.svg?style=for-the-badge&logo=css&logoColor=white"/>
@@ -17,6 +19,7 @@ Working On... <br/><br/>
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23FF2D20.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
+--------------------------------------------------------------------------------------------------------------------------
 
 <br/>  **Familiar IDE :** <br/><br/>
 <img alt="Webstorm" src="https://img.shields.io/badge/Webstorm-000000.svg?style=for-the-badge&logo=Webstorm&logoColor=white&color=black&labelColor=crimson"/> 
