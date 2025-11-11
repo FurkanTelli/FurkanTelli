@@ -21,4 +21,5 @@ Working On... <br/><br/>
 <br/>  **Familiar IDE :** <br/><br/>
 <img alt="Webstorm" src="https://img.shields.io/badge/Webstorm-000000.svg?style=for-the-badge&logo=Webstorm&logoColor=white&color=black&labelColor=crimson"/> 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-0078d7.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 
